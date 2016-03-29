@@ -14,7 +14,8 @@
     "morgan": "~1.6.1",
     "node-horseman": "^2.8.2",
     "node-sass-middleware": "0.8.0",
-    "serve-favicon": "~2.3.0"
+    "serve-favicon": "~2.3.0",
+    "phantomjs-prebuilt": "2.1.7"
   },
   "engines": {
     "node": "5.8.0"
